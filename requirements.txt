@@ -36,7 +36,7 @@ pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_173330192774
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1733327343728/work
 pillow==11.2.1
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_platformdirs_1742485085/work
-plotly==6.0.1
+plotly
 prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1744724089886/work
 protobuf==5.29.4
 psutil @ file:///croot/psutil_1736367091698/work
