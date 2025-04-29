@@ -181,8 +181,7 @@ if __name__ == "__main__":
 
         # Create a world map showing the change of each metric from start to end
         add_metric_delta_world_map(delta_df, delta_metric_names)
-        # TODO
-        st.write("TODO")
+        
     if add_sidebar == '2019':
         create_year_screen(dfs, mean_dfs, 2019)
 
