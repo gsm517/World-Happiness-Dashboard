@@ -1,5 +1,4 @@
 altair==5.5.0
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1733250440834/work
 attrs==25.3.0
 blinker==1.9.0
 cachetools==5.5.2
